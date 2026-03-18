@@ -9,7 +9,7 @@ long_description = (here / "README.md").read_text(encoding="utf-8")
 
 setup(
     name="gitex",
-    version="0.0.1",
+    version="0.0.2",
     description="This package adds 'definetly useful' new git subcommands to your system",
     long_description=long_description,
     long_description_content_type="text/markdown",
@@ -32,6 +32,6 @@ setup(
     python_requires=">=3.8, <4",
     install_requires=[],
     entry_points={
-        "console_scripts": ["git-lol=gitex:lol"]
+        "console_scripts": ["git-yeet=gitex:yeet"]
     }
 )

@@ -1,2 +1,4 @@
-def lol():
-  print("lol")
+import subprocess
+
+def yeet():
+  subprocess.run("git push -f")

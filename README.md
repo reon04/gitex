@@ -19,7 +19,7 @@ pip uninstall gitex
 
 ## Usage
 This package adds the following git subcommands:
-- git lol: prints lol in the shell
+- `git yeet` -> force-push to the remote repository
 
 ## License
 This code is licensed under the [MIT License](LICENSE).
